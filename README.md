@@ -5,8 +5,7 @@ Calculator
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
-
+GitHub Pop Up Info: Customize this web app with ease. Display informative pop-up notifications with personalized backgrounds, font colors, and icons. Engage users with attention-grabbing messages. Responsive and easy to integrate into any project. Enhance your web app with this versatile notification system.
 ## Authors
 
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
@@ -14,41 +13,40 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+A customizable web application for displaying informative pop-up notifications. Easily modify the background image, font color, and icons to match your preferences. Follow these steps to utilize the code:
 
    1. Clone the repository to your local machine.
 
    2. Open the project in your preferred code editor.
 
-   3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+   3. Customize the HTML, CSS, or JavaScript files to tailor the pop-up design.
 
-   4. Test the calculator locally to ensure it functions correctly.
+   4. Utilize the openPopUp() function to trigger the pop-up notification.
 
-   5. Deploy the updated application to your chosen hosting platform for others to use.
+   5. Implement the closePopUp() function to dismiss the notification.
 
-Unleash your creativity and personalize the calculator according to your style!
+Enhance user experience by providing informative messages in an eye-catching pop-up format.
 
 
 
 ## Features
 
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+   
 
-   2. Decimal point support and clearing display.
+   1. User-friendly pop-up notification for displaying important information.
 
-   3. Delete last character and evaluate expressions.
+   2. Easy customization of background image, font color, and icons.
 
-   4. User-friendly design with responsive layout.
+   3. Responsive design to adapt to different screen sizes.
 
-   5. Styling with custom CSS for an appealing visual experience.
+   4. Smooth animation for pop-up display and dismissal.
 
-   6. Use of popular web fonts for improved typography.
+   5. Utilizes Google Fonts for improved typography.
 
-   7. Integration of Font Awesome icons for enhanced aesthetics.
+   6. Simple integration into existing web applications or projects.
 
-
-
+   7. Straightforward code structure for easy modification and extension.
 
 
 ## Contributing
